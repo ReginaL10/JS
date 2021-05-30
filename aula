@@ -1,0 +1,27 @@
+
+<>index.html
+<!DOCTYPE html>
+<html>
+<html lang= "pt br">
+<head>
+<tittle> JavaScript</tittle>
+<meta charsed="utf-8">
+</head>
+<body>
+ <script>
+  alert(meu primeiroJS");
+ </script>
+<h1> Java Script</h1>
+/*
+var nome="Regina Florencio";
+var qualificação= Pedagoga;
+var frase="Aprender a aprendendo"; 
+//alert (nome)
+//alert ("qualificação";
+console.log(nome)
+console.log (qualificação)
+console.log (frase.replace("aprendendo","Aprender"));
+alert(frase.replace("aprendendo","aprender"));
+console.log(frase.toolowercase());
+
+<html>
